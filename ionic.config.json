@@ -1,0 +1,7 @@
+{
+  "name": "avaa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
